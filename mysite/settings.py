@@ -25,7 +25,7 @@ SECRET_KEY = 'hu#g&l(hblp%*zxx73kncz$v*x^+1zir%9kw1+6lv8zu@x#5oh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','sunlion']
+ALLOWED_HOSTS = ['127.0.0.1','sunlion.pythonanywhere.com']
 
 
 # Application definition
